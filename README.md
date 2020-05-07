@@ -60,7 +60,8 @@
     - 支持`自更新` 完全基于配置运行，降低运维负担。
 
 <br/><br/>
-
+文件目录说明:<br/>
+![image](https://github.com/robinsoon/selfUpdateService/blob/master/%E8%87%AA%E6%9B%B4%E6%96%B0%E6%9C%8D%E5%8A%A1%E6%96%87%E4%BB%B6%E7%9B%AE%E5%BD%95%E8%AF%B4%E6%98%8E.png)
 
 >[了解更多](about) <br/>
 
